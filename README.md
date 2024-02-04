@@ -1,4 +1,4 @@
-# LittlelemonAPI project
+# Lemon3 API project
 
 #install packages:
 pip install djangorestframework
